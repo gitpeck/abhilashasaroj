@@ -5,3 +5,5 @@ My Ph.D. research entails two parts:
 2. Development of connected corridor real-time simulation model led to discovery of data gaps in the real-time raw data received from the study corridor. This motivated the second part of research to investigate the connected corridor real-time data loss characteristics to provide a suitable data imputation methodology. 
 
 I defended my dissertation proposal in October 2019. I am expecting to graduate in May 2020. I am looking for a faculty/post-doc position starting Fall 2020.
+
+[LinkedIn](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)| [CV](/Abhilasha Saroj_CV_11Oct2019.pdf)
