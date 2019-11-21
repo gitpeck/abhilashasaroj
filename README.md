@@ -1,6 +1,4 @@
 ## About
-Download [CV](/Abhilasha Saroj_CV_11Oct2019.pdf) 
-
 With an aspiration to nurture my curiosity, be a lifelong learner, understand the complex and dynamic field of transportation, and to serve the unmet needs of a more inclusive and happier humanity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by [Dr. Michael Hunter.](https://ce.gatech.edu/people/Faculty/811/overview)
 
 My Ph.D. research entails two research objectives:
@@ -8,4 +6,5 @@ My Ph.D. research entails two research objectives:
 2. Discovery of data gaps in the real-time raw data streams received from the study corridor motivated second research objective - to investigate the connected corridor real-time data loss characteristics to provide a suitable data imputation methodology. 
 
 I defended my dissertation proposal in October 2019. I am expecting to graduate in May 2020. I am looking for a faculty/post-doc position starting Fall 2020.
-[LinkedIn](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)| [CV](/Abhilasha Saroj_CV_11Oct2019.pdf)
+
+[CV](/Abhilasha Saroj_CV_11Oct2019.pdf)| [LinkedIn](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)| 
