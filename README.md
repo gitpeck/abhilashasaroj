@@ -1,7 +1,4 @@
-## About
-With an aspiration to nurture my curiosity, be a lifelong learner, understand the complex and dynamic field of transportation, and to serve the unmet needs of a more inclusive and happier humanity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by [Dr. Michael Hunter.](https://ce.gatech.edu/people/Faculty/811/overview) 
-
-Download my [CV](/Abhilasha Saroj_CV_11Oct2019.pdf) here.
+With an aspiration to nurture my curiosity, be a lifelong learner, understand the complex and dynamic field of transportation, and to serve the unmet needs of a more inclusive and happier humanity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by [Dr. Michael Hunter.](https://ce.gatech.edu/people/Faculty/811/overview) Download my [CV](/Abhilasha Saroj_CV_11Oct2019.pdf) here.
 
 My Ph.D. research entails two parts:
 1. First part focuses on the development of a connected corridor real-time data-driven traffic simulation model tool, capable of providing traffic and environmental performance measures of the corridor at a (near) real-time rate. This simulation tool can be used by research practitioners and transportation organizations to investigate environmental and traffic level impacts of advanced ITS/connected technologies on the corridor. The simulation model developed is intended to be an effective tool in simulating and measuring environmental and traffic performance related benefits of different connected corridor technologies. 
