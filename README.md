@@ -7,4 +7,4 @@ My Ph.D. research entails two research objectives:
 
 I defended my dissertation proposal in October 2019. I am expecting to graduate in May 2020. I am looking for a faculty/post-doc position starting Fall 2020.
 
-[CV](/2_Abhilasha Saroj_CV_15Jan2020.pdf)| [LinkedIn](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)| 
+[CV](/2_Abhilasha_Saroj_CV_15Jan2020.pdf)| [LinkedIn](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)| 
