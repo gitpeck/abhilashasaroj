@@ -1,7 +1,5 @@
 [Curriculum Vitae](/Abhilasha Saroj_CV_5Feb2020.pdf)
-
 [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)
-
 [Github](https://github.com/gitpeck)
 
 ## About
