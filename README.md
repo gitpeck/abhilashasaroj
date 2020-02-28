@@ -6,8 +6,6 @@ With an aspiration to understand the complex and dynamic field of transportation
 My Ph.D. research entails two research objectives:
 1. First part focuses on the development of a connected corridor real-time data-driven traffic simulation model tool, capable of providing traffic and environmental performance measures of the corridor at a (near) real-time rate. The simulation model developed is intended to be an effective tool that can be used by research practitioners and transportation organizations to simulate and measure environmental and traffic performance related impacts of different connected corridor technologies. 
 2. Discovery of data gaps in the real-time raw data streams received from the study corridor motivated second research objective - to investigate the connected corridor real-time data loss characteristics to provide a suitable data imputation methodology. 
-
 I expect to graduate in May 2020. I am looking for a faculty/post-doc position starting Fall 2020.
 
-[Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)
-[Github](https://github.com/gitpeck)
+[Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| [Github](https://github.com/gitpeck)
