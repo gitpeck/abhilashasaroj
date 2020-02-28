@@ -1,2 +1,19 @@
+## Research Portfolio
 
-Hey there
+# Peer-Reviewed Journal Articles
+
+
+
+# Peer-Reviewed Conference Proceedings
+
+
+
+# Technical Reports
+
+
+
+
+# Selected Conference and Workshop Presentations
+
+
+
