@@ -1,19 +1,19 @@
 ## Research Portfolio
 
-# Peer-Reviewed Journal Articles
+### Peer-Reviewed Journal Articles
 
 
 
-# Peer-Reviewed Conference Proceedings
+### Peer-Reviewed Conference Proceedings
 
 
 
-# Technical Reports
+### Technical Reports
 
 
 
 
-# Selected Conference and Workshop Presentations
+### Selected Conference and Workshop Presentations
 
 
 
