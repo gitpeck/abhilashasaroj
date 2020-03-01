@@ -18,7 +18,7 @@
 - Guin, A., M. P. Hunter, M. O. Rodgers, **A. Saroj**, N. Choudhary, and H. G. Kim. “Operational Evaluation of Do Not Block the Box Campaigns in Georgia.” Georgia Department of Transportation, Atlanta, Georgia, Report No. FHWA-GA-18-1443, April 2018. [[link to TRID database]](https://trid.trb.org/view/1523189)
 - Guin, A., M. P. Hunter, M. O. Rodgers, and **A. Saroj**. “Enhanced Role of Activity Center Transportation Organizations in Regional Mobility.” Georgia Department of Transportation, Atlanta, Georgia, Report No. FHWA-GA-16-1316, February 2017. [[link to TRID database]](https://trid.trb.org/view/1475161)
 
-### Selected Conference and Workshop Presentations
+### Selected Conference Presentations
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Connected Corridor Volume Data Time Series Analysis and Imputation. ASCE International Conference on Transportation & Development, Seattle, Washington, May 26th to 29th, 2020.
 - **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Connected Digital Twin. GDOT/GTRI Research Expo, Atlanta, Georgia, September 13th, 2019.
 - Hunter, M., **A. Saroj**, S. Roy, R. Fujimoto, R. Guensler, and A. Guin. Smart City Real-Time Data Driven Simulation – North Avenue Digital Twin. ITE Summer Seminar, St. Simons Island, Georgia, July 21st to July 24th, 2019. *(Speaker - Dr. Hunter)* 
