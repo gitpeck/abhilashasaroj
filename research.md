@@ -9,7 +9,7 @@
 ### Peer-Reviewed Conference Proceedings
 - **Saroj, A.**, S. Roy, R. Fujimoto., A. Guin, & M. Hunter. A Sensitivity Analysis Study to Measure Impact of Real-Time Traffic Volume Data Imputations on Traffic Performance Measures. Winter Simulation Conference, National Harbor, Maryland, 2019. *(Ph.D. Colloquium - Extended Abstract, Podium Presentation, & Poster Presentation)*
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Operational Evaluation of Don’t Block the Box Campaigns. Transportation Research Board, Washington, D.C., 2019. *(Poster Presentation)* [[link to TRID database]](https://trid.trb.org/view/1573335)
-- **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Real-Time Data-Driven Simulation. Winter Simulation Conference, Gothenburg, Sweden, 2018. *(Podium Presentation)* [[link to IEEE]](https://ieeexplore.ieee.org/document/8632198?denied=)
+- **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Real-Time Data-Driven Simulation. Winter Simulation Conference, Gothenburg, Sweden, 2018. *(Podium Presentation)* [[link to IEEE page]](https://ieeexplore.ieee.org/document/8632198?denied=)
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Video Tool for Manually Extracting Complex Traffic Data. Transportation Research Board, Washington, D.C., 2018. *(Podium Presentation by Dr. Guin)* [[link to TRID database]](https://trid.trb.org/view/1496767)
 - **Saroj, A.**, S. Harris, A. Guin, M. Rodgers, & M. Hunter. Analysis of Vehicle Blocking Behavior on Intersection Performance. Transportation Research Board, Washington, D.C., 2017. *(Poster Presentation)* [[link to TRID database]](https://trid.trb.org/view/1439541)
 
