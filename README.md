@@ -7,4 +7,4 @@ With an aspiration to understand the complex and dynamic field of transportation
 
 I expect to graduate in May 2020. I am looking for a faculty/post-doc position starting Fall 2020.
 
-Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/gitpeck)
+Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/abhilashasaroj)
