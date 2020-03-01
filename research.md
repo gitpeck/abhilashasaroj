@@ -21,10 +21,10 @@
 ### Selected Conference and Workshop Presentations
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Connected Corridor Volume Data Time Series Analysis and Imputation. ASCE International Conference on Transportation & Development, Seattle, Washington, May 26th to 29th, 2020.
 - **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Connected Digital Twin. GDOT/GTRI Research Expo, Atlanta, Georgia, September 13th, 2019.
-- Hunter, M., **A. Saroj**, S. Roy, R. Fujimoto, R. Guensler, and A. Guin. Smart City Real-Time Data Driven Simulation – North Avenue Digital Twin. ITE Summer Seminar, St. Simons Island, Georgia, July 21st to July 24th, 2019. *(Speaker - Dr. Hunter) 
-- Hunter, M., **A. Saroj**, S. Roy, R. Fujimoto, R. Guensler, and A. Guin. North Avenue Smart City Digital Twin. Georgia Power – A Southern Company, Atlanta, Georgia, July 25th, 2019. *(Speaker - Dr. Hunter) 
+- Hunter, M., **A. Saroj**, S. Roy, R. Fujimoto, R. Guensler, and A. Guin. Smart City Real-Time Data Driven Simulation – North Avenue Digital Twin. ITE Summer Seminar, St. Simons Island, Georgia, July 21st to July 24th, 2019. *(Speaker - Dr. Hunter)* 
+- Hunter, M., **A. Saroj**, S. Roy, R. Fujimoto, R. Guensler, and A. Guin. North Avenue Smart City Digital Twin. Georgia Power – A Southern Company, Atlanta, Georgia, July 25th, 2019. *(Speaker - Dr. Hunter)* 
 - **Saroj, A.**, S. Roy, R. Fujimoto., R. Guensler, A. Guin, & M. Hunter. Smart City Digital Twin – Connected Data-Driven Traffic Simulation Model. Automated Vehicles Symposium, Orlando, Florida, July 15th to 18th, 2019.
-- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Operational Evaluation of Don’t Block the Box Campaigns. Southeastern Transportation Research, Innovation, Development, & Education Center Student Poster Competition, Washington, D.C., January 13th to 17th, 2019. **(2nd Best Poster Award) 
+- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Operational Evaluation of Don’t Block the Box Campaigns. Southeastern Transportation Research, Innovation, Development, & Education Center Student Poster Competition, Washington, D.C., January 13th to 17th, 2019. **(2nd Best Poster Award)** 
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Smart Corridor Real-Time Dynamic Simulation. University Transportation Center Conference for the Southeastern Region, Clemson, South Carolina, October 24th to 25th, 2018.   
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Analysis of Vehicle Blocking Behavior on Intersection Performance. University Transportation Center Conference for the Southeastern Region, Gainesville, Florida, November 16th to 17th, 2017.
  
