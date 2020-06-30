@@ -3,8 +3,9 @@
 ## Research Portfolio
 
 ### Peer-Reviewed Journal Articles
-- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. Transactions of the Society for Modelling and Simulation International, 2020. *(under review)*
-- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Measuring Effectiveness and Operational Performance of Do Not Block the Box Campaigns. American Society of Civil Engineering Journal of Transportation Engineering, Part A: Systems. *(in preparation)*
+- **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
+- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. 2020. *(in preparation)*
+- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Measuring Effectiveness and Operational Performance of Do Not Block the Box Campaigns. *(in preparation)*
 
 ### Peer-Reviewed Conference Proceedings
 - **Saroj, A.**, S. Roy, R. Fujimoto., A. Guin, & M. Hunter. A Sensitivity Analysis Study to Measure Impact of Real-Time Traffic Volume Data Imputations on Traffic Performance Measures. Winter Simulation Conference, National Harbor, Maryland, 2019. *(Ph.D. Colloquium - Extended Abstract, Podium Presentation, & Poster Presentation)* [[link to I-Sim WSC archive]](https://www.informs-sim.org/wsc19papers/290.pdf)
