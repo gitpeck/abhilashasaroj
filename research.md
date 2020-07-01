@@ -15,7 +15,7 @@
 - **Saroj, A.**, S. Harris, A. Guin, M. Rodgers, & M. Hunter. Analysis of Vehicle Blocking Behavior on Intersection Performance. Transportation Research Board, Washington, D.C., 2017. *(Poster Presentation)* [[link to TRID database]](https://trid.trb.org/view/1439541)
 
 ### Technical Reports
-- Hunter, M. P., R. L. Guensler, A. Guin, **A. Saroj**, and S. Roy. “Smart Cities Atlanta - North Avenue.” City of Atlanta, Atlanta, Georgia, December 2019.
+- Hunter, M. P., R. L. Guensler, A. Guin, **A. Saroj**, and S. Roy. “Smart Cities Atlanta - North Avenue.” City of Atlanta, Atlanta, Georgia, December 2019.[[link to project report (pdf)]](http://realtime.ce.gatech.edu/RenewAtlanta-GeorgiaTech-Final-Report.pdf)
 - Guin, A., M. P. Hunter, M. O. Rodgers, **A. Saroj**, N. Choudhary, and H. G. Kim. “Operational Evaluation of Do Not Block the Box Campaigns in Georgia.” Georgia Department of Transportation, Atlanta, Georgia, Report No. FHWA-GA-18-1443, April 2018. [[link to TRID database]](https://trid.trb.org/view/1523189)
 - Guin, A., M. P. Hunter, M. O. Rodgers, and **A. Saroj**. “Enhanced Role of Activity Center Transportation Organizations in Regional Mobility.” Georgia Department of Transportation, Atlanta, Georgia, Report No. FHWA-GA-16-1316, February 2017. [[link to TRID database]](https://trid.trb.org/view/1475161)
 
