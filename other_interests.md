@@ -2,7 +2,7 @@
 
 
 ## Reading 
-![[reading](books_thumbnail.jpeg)](reading.md)
+[![reading](/books_thumbnail.jpeg)](/reading.md)
 
 
 
