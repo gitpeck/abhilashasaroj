@@ -3,7 +3,7 @@
 
 ## Reading 
 
-<a href="reading.html"><img src="books_thumbnail.jpeg" 
+<a href="reading.md"><img src="books_thumbnail.jpeg" 
     height="100"></a>
 
 
