@@ -3,6 +3,9 @@
 
 ## Reading 
 
-[<img src="books_thumbnail.jpeg" height="100"/>](reading.md)     [<img src="coursera_notes.png" height="100"/>](reading.md)
+[<img src="books_thumbnail.jpeg" height="100"/>](reading.md)   
+
+## Reinforcement Learning Notes
+[<img src="coursera_notes.png" height="100"/>](reading.md)
 
 
