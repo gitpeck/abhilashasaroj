@@ -3,7 +3,7 @@
 ## About
 
 <p style="text-align: justify;">
-With an aspiration to understand the complex and dynamic field of transportation, to serve the unmet needs of a more inclusive and happier humanity, to be a lifelong learner, and to nurture my curiosity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by </p> [Dr. Michael Hunter](https://ce.gatech.edu/people/Faculty/811/overview). My Ph.D. research entails two research objectives: 
+With an aspiration to understand the complex and dynamic field of transportation, to serve the unmet needs of a more inclusive and happier humanity, to be a lifelong learner, and to nurture my curiosity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by</p>[Dr. Michael Hunter](https://ce.gatech.edu/people/Faculty/811/overview). My Ph.D. research entails two research objectives: 
 
 - First part focuses on the development of a connected corridor real-time data-driven traffic simulation model tool, capable of providing traffic and environmental performance measures of the corridor at a (near) real-time rate. The simulation model developed is intended to be an effective tool that can be used by research practitioners and transportation organizations to simulate and measure environmental and traffic performance related impacts of different connected corridor technologies.
 
