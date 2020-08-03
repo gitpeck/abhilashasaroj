@@ -2,8 +2,10 @@
 
 
 ## Reading 
-<img src="books_thumbnail.jpeg" alt="drawing" width="200"/>
-[reading.md]
+<a href="reading.md">
+    <img src="books_thumbnail.png" 
+    height="100" alt="alt text" title="Click to enlarge"></a>
+
 
 
 
