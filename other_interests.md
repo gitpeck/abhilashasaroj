@@ -1,2 +1,2 @@
-<a href="reading.md" rel="Reading">![Foo](books_thumbnail.jpeg)|width="200" height="400"</a>
+<a href="reading.md" rel="Reading">![Foo](books_thumbnail.jpeg)=250x250</a>
 ## Reading ##
