@@ -2,7 +2,8 @@
 
 
 ## Reading 
-[![reading](/books_thumbnail.jpeg)](/reading.md)
+<img src="books_thumbnail.jpeg" alt="drawing" width="200"/>
+(/reading.md)
 
 
 
