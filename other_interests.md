@@ -1,1 +1,1 @@
-<a href="http://google.com.au/" rel="some text">![Foo](books_thumbnail.jpeg)</a>
+<a href="http://google.com.au/" rel="Reading">![Foo](books_thumbnail.jpeg)</a>
