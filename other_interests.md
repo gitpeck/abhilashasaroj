@@ -3,6 +3,6 @@
 
 ## Reading 
 
-[Reading <img src="books_thumbnail.jpeg" height="100"/>](reading.md)
+[<img src="books_thumbnail.jpeg" height="100"/>](reading.md)
 
 
