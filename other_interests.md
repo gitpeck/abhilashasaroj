@@ -2,7 +2,7 @@
 
 
 ## Reading 
-![reading](books_thumbnail.jpeg | width=48)
+![[reading](books_thumbnail.jpeg)](reading.md)
 
 
 
