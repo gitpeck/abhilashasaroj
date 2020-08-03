@@ -1,2 +1,3 @@
-<a href="reading.md" rel="Reading">![Foo](books_thumbnail.jpeg =24x48)</a>
+
+<img src="books_thumbnail.jpeg" width="48">
 ## Reading 
