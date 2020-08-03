@@ -1,2 +1,2 @@
-<img src="books_thumbnail.jpeg" height="400" width="400">
+<img src="books_thumbnail.jpeg" height="200" width="300">
 ## Reading 
