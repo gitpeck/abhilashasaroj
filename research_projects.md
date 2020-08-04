@@ -2,6 +2,6 @@
 
 ### Projects 
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
+| | | 
+|:-------------------------:|:-------------------------:|
 [<img src="dbtb.png" width = "1603"/>](dbtb.md)  **Don't Block the Box** |  [<img src="north_ave.png" height = "60" width = "1603"/>](coa.md)  **North Avenue Smart Corridor**|[<img src="maria4.jpg" width = "1603"/>](vissim_tutorials.md)  **VISSIM Tutorials**|
