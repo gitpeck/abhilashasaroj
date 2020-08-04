@@ -4,10 +4,5 @@
 
 | | | 
 |:-------------------------:|:-------------------------:|
-[<img src="dbtb.png" width = "1603"/>](dbtb.md)  **Don't Block the Box** |  [<img src="north_ave_smart.jpg" width = "1603"/>](coa.md)  **North Avenue Smart Corridor**|
-
-
-### Other Creative Projects
-| | | 
-|:-------------------------:|:-------------------------:|
+[<img src="dbtb.png" width = "1603"/>](dbtb.md)  **Don't Block the Box** |  [<img src="north_ave_smart.jpg" width = "1603"/>](coa.md)  **North Avenue Smart Corridor**| 
 [<img src="vissim_sim.jpg" width = "1603"/>](vissim_tutorials.md)  **VISSIM Tutorials**|
