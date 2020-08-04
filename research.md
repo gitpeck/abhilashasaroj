@@ -1,4 +1,4 @@
-## [Home](README.md) | [Research Portfolio](/research.md) | [Other Interests](other_interests.md)| [CV](/Abhilasha Saroj_CV_29June2020.pdf) |
+### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
 ## Research Portfolio
 
