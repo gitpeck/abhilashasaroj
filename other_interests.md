@@ -3,4 +3,4 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-[<img src="reading.jpg" width = "1603"/>](reading.md)  **Reading** |  [<img src="coursera_notes.png" height = "200" width = "1603"/>](rl_notes.md)  **Reinforcement Learning Notes**|[<img src="maria4.jpg" width = "1603"/>](research_projects.md)  **Research Paper Reviews**|
+[<img src="reading.jpg" width = "1603"/>](reading.md)  **Reading** |  [<img src="coursera_notes.png" height = "200" width = "1603"/>](rl_notes.md)  **Reinforcement Learning Notes**|[<img src="maria4.jpg" width = "1603"/>](paper_reviews.md)  **Research Paper Reviews**|
