@@ -3,12 +3,4 @@
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-[<img src="books_thumbnail.jpeg" width = "1603"/>](reading.md)  **Reading** |  [<img src="coursera_notes.png" height = "150" width = "1603"/>](rl_notes.md)  **Reinforcement Learning Notes**|[<img src="books_thumbnail.jpeg" width = "1603"/>](reading.md)  **Research Paper Reviews**|
-
-
-### Reading [<img src="books_thumbnail.jpeg" height="100"/>](reading.md) 
-### Reinforcement Learning Notes [<img src="coursera_notes.png" height="100"/>](rl_notes.md)
-
-
-
-
+[<img src="books_thumbnail.jpeg" width = "1603"/>](reading.md)  **Reading** |  [<img src="coursera_notes.png" height = "150" width = "1603"/>](rl_notes.md)  **Reinforcement Learning Notes**|[<img src="maria4.jpg" width = "1603"/>](research_projects.md)  **Research Paper Reviews**|
