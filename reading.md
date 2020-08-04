@@ -1,15 +1,15 @@
 
 ### Reading 
 
-2020 Reading list
+### 2020 Reading list
 
-### Introduction to Buddhism
+#### Introduction to Buddhism
 
-### Perfecting Patience
+#### Perfecting Patience
 
-### Why we Sleep? (now)
+#### Why we Sleep? (now)
 
-### Girl Decoded (next)
+#### Girl Decoded (next)
 
-### Crime and Punishment (later)
+#### Crime and Punishment (later)
 
