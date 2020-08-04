@@ -1,6 +1,6 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Reserach](research_projects.md)| [Other Interests](other_interests.md) | [Blog](blog.md) 
  
-## About
+### About
 [Download CV](/Abhilasha Saroj_CV_29June2020.pdf)
 
 With an aspiration to understand the complex and dynamic field of transportation, to serve the unmet needs of a more inclusive and happier humanity, to be a lifelong learner, and to nurture my curiosity, I started pursuing Ph.D. at School of Civil and Environmental Engineering, Georgia Institute of Technology in 2016, advised by [Dr. Michael Hunter](https://ce.gatech.edu/people/Faculty/811/overview). My Ph.D. research entails two research objectives: 
