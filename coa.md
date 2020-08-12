@@ -10,7 +10,6 @@ Provide picture courtesy
 #### Research Objectives
 
 #### Key Research Studies Brief 
-
 - Connected Corridor Data-Driven Simulation Model
 - Data Stream Investigations (nature of gaps)
 - Data Imputation Methodologies 
