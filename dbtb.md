@@ -1,7 +1,9 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
 ### Operational Performance of Don't Block the Box Campaigns (under construction)
+
 Add picture
+
 Provide picture courtesy
 
 #### Research Project Brief 
@@ -11,6 +13,7 @@ Provide picture courtesy
 
 #### What is blocking of an intersection and what are the don't block the box campaigns?
 4-5 sentences
+
 Add picture to explain (if you got any)
 
 #### Study Brief 
@@ -23,14 +26,14 @@ Add picture to explain (if you got any)
 - To measure the impact of different percentages of blocking behavior on intersection performance 
 
 
-**Find details of this research in the conference proceedings and technical reports listed below. 
+#### Relevant Conference Proceedings and Technical Reports / Manuscripts 
 
-Peer-Reveiwed Conference Proceedings
+##### Peer-Reveiwed Conference Proceedings
 - 
 - 
 -
 
-Technical Reports 
+##### Technical Reports 
 - 
 - 
 
