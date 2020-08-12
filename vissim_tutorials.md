@@ -6,7 +6,7 @@ Add picture - provide picture courtesy
 #### Project Brief
 - Targeted learners
 - Use
-- Which tuotorials I am preparing
+- Which tutorials I am preparing
 - Brief of all tutorials in series
 - Link to all tutorials in series 
 
