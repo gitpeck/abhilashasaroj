@@ -10,7 +10,10 @@
 
 ##### Why we Sleep? (now)
 
+##### Essential Bukowski *poetry* (now)
+
 ##### Girl Decoded (next)
 
 ##### Crime and Punishment (later)
+
 
