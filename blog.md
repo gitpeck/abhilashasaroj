@@ -2,7 +2,7 @@
 
 ### Blog
 
-#### Four core practices during qurantine 
+#### Four core practices during quarantine 
 12 August 2020
 
 1. Continue learning new skills on Coursera 
