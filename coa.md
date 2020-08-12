@@ -18,18 +18,18 @@ Provide picture courtesy
   - Fixed Vissim RBC controller - (for signal data stream imputation)
   - Replicate previous signal cycle phase timings - (for signal data stream imputation)
  
- #### References 
+#### References 
  
- #### Relevant Manuscripts
+#### Relevant Manuscripts
  
- ##### Dissertation 
-  - Link to dissertation document
+##### Dissertation 
+- Link to dissertation document
   
- ##### Peer-Reviewed Conference Proceedings
+##### Peer-Reviewed Conference Proceedings
   
- ##### Technical Report
+##### Technical Report
  
- ##### Journal Articles (in preparation)
+##### Journal Articles (in preparation)
 
 #### Project Team 
 - Grad students
