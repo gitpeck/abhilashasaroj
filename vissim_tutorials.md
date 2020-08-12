@@ -1,3 +1,17 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md)
 
-### VISSIM Tutorials
+### VISSIM Tutorials - Active Project (page under construction)
+
+#### Project Brief
+- Targeted learners
+- Use
+- Which tuotorials I am preparing
+- Brief of all tutorials in series
+- Link to all tutorials in series 
+
+#### References 
+
+#### Team
+- 
+
+Last modified: August 12 2020
