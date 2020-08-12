@@ -42,13 +42,13 @@ Add picture to explain (if you got any)
 - 
 
 
-#### Team
+#### Project Team
 - grad students
 - undergrads
 - PIs
 - Data collection support 
 
-*Find the Vissim COM code used to simulate the vehicle blocking behaviour at xyz repository (put github link).
+**Find the Vissim COM code used to simulate the vehicle blocking behaviour at xyz repository (put github link).
 
 Last modified: 12 August 2020
 
