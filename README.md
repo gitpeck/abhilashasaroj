@@ -10,4 +10,6 @@ My Ph.D. research entailed development of a connected corridor real-time data-dr
 Next, I plan to continure doing research as a Postdoctoral Associate at Georgia Tech soon.
 
 
-Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/abhilashasaroj)| Email: abhilashasaroj.genuine@gmail.com
+Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/abhilashasaroj)
+
+Email: abhilashasaroj.genuine@gmail.com
