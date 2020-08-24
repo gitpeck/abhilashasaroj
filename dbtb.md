@@ -2,10 +2,8 @@
 
 ### Operational Performance of Don't Block the Box Campaigns (under construction)
 
-<img src="dbtb.png" height = "110" width = "1603"/>](dbtb.md)  **Don't Block the Box**
-Add picture
-
-Provide picture courtesy
+<img src="dbtb.png" height = "300" width = "1603"/>
+Picture from traffic video recorded at ..... intersection. 
 
 #### Research Project Brief 
 - Mention sponsors - PCID and GDOT
