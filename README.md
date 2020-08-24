@@ -15,3 +15,4 @@ I plan to start working as a Postdoctoral Associate at Georgia Tech soon.
 
 
 Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/abhilashasaroj)
+Email: abhilashasaroj.genuine@gmail.com
