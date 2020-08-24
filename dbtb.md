@@ -3,7 +3,7 @@
 ### Operational Performance of Don't Block the Box Campaigns
 
 <img src="dbtb.png" height = "200" width = "1603"/>
-Picture from traffic video recorded for the study. 
+Picture from video recorded at a study intersection in Atlanta, Georgia. 
 
 #### Research Brief 
 In congestion, when a vehicle enters an intersection with insufficient space to exit on the opposite side due to downstream traffic spillback, it often leads to the obstruction of vehicle and pedestrian movement on conflicting approaches. This “blocking the box” can propagate to nearby intersections with negative traffic impacts such as capacity reductions and increased travel times and, in extreme cases, can lead to gridlock. This research investigated the effectiveness of “Don’t Block the Box” (DBTB) treatments in minimizing driver’s blocking an intersection. This research explores the performance of DBTB treatments by: 1) conducting a “before-after” DBTB treatment comparison study at six intersections in Atlanta, Georgia and by 2) quantifying the impact of vehicle blocking behavior on intersection performance using a microscopic simulation model. 
