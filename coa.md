@@ -19,7 +19,7 @@ Investigation of corridor data streams revealed presence of data loss in volume 
 In this effort, univariate and multivariate volume imputation models that use Long Short-Term Memory Recurrent Neural Network layers are developed. Performance of the developed univariate and multivariate LSTM RNN models to impute data loss units is investigated on a typical traffic day and an atypical traffic day (holiday). Simulations on Digital Twin are conducted to evaluate the impact of the developed LSTM model imputations on Digital Twin generated performance measures. 
 
 This research was also my dissertation research. For details please refer the relevant manuscripts listed below. 
-  
+________________________________________________________________________________________________________________________________________________
 #### Relevant Peer-Reviewed Conference Proceedings
 - **Saroj, A.** A Sensitivity Analysis Study to Measure Impact of Real-Time Traffic Volume Data Imputations on Traffic Performance Measures. Winter Simulation Conference, National Harbor, Maryland, 2019. *(Ph.D. Colloquium - Extended Abstract, Podium Presentation, & Poster Presentation)* [[link to I-Sim WSC archive]](https://www.informs-sim.org/wsc19papers/290.pdf)
 - **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Real-Time Data-Driven Simulation. Winter Simulation Conference, Gothenburg, Sweden, 2018. *(Podium Presentation)* [[link to IEEE page]](https://ieeexplore.ieee.org/document/8632198?denied=)
