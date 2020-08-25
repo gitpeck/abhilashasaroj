@@ -1,6 +1,7 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
 ### Operational Performance of Don't Block the Box Campaigns
+Role: Graduate Research Assistant
 
 <img src="dbtb.png" height = "200" width = "1603"/>
 Picture from video recorded at a study intersection in Atlanta, Georgia. 
