@@ -19,8 +19,7 @@ In this effort, univariate and multivariate volume imputation models that use Lo
 
 This research was also my dissertation research. For details please refer the relevant manuscripts listed below. 
 
-****
-
+---
 ### Relevant Manuscripts 
 #### Peer-Reviewed Conference Proceedings
 - **Saroj, A.** A Sensitivity Analysis Study to Measure Impact of Real-Time Traffic Volume Data Imputations on Traffic Performance Measures. Winter Simulation Conference, National Harbor, Maryland, 2019. *(Ph.D. Colloquium - Extended Abstract, Podium Presentation, & Poster Presentation)* [[link to I-Sim WSC archive]](https://www.informs-sim.org/wsc19papers/290.pdf)
@@ -33,7 +32,7 @@ This research was also my dissertation research. For details please refer the re
 - **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. 2020. *(in preparation)*
 
-***
+---
 ### Project Material shared on GitHub - [CoA](https://github.com/abhilashasaroj/CoA)
 - Contains python 3.7 code to develop simulation model using Vissim 9.00-08 COM interface
 
