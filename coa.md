@@ -31,7 +31,7 @@ This research was also my dissertation research. For details please refer the re
 - **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. 2020. *(in preparation)*
 
-#### Relevant GitHub Repository - [CoA]()
+#### Relevant GitHub Repository - [CoA](https://github.com/abhilashasaroj/CoA)
 - Contains python 3.7 code to develop simulation model using Vissim 9.00-08 COM interface
 
 Last Updated: 24 August 2020
