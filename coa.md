@@ -1,9 +1,9 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
 ### Smart Cities Atlanta - North Avenue (under construction)
-Add picture 
+<img src="north_ave_smart.jpg" height = "200" width = "1603"/>
 
-Provide picture courtesy
+Image by (), accessed from  on 24 August 2020.
 
 #### Research Brief
 
