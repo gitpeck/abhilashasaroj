@@ -1,6 +1,6 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
-## Smart Cities Atlanta - North Avenue
+### Smart Cities Atlanta - North Avenue
 Role: Graduate Reserach Assistant, Ph.D. candidate 
 
 <img src="north_ave_smart.jpg" height = "200" width = "1603"/>
