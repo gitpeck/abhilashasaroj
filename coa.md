@@ -3,7 +3,7 @@
 ### Smart Cities Atlanta - North Avenue
 <img src="north_ave_smart.jpg" height = "200" width = "1603"/>
 
-Image by Atkins Global. Accessed on 24 August 2020. Available at - (https://m.atkinsglobal.com/en-GB/projects/renew-atlanta-north-avenue-smart-corridor)
+Image by Atkins Global. Accessed on 24 August 2020. Available at this [link](https://m.atkinsglobal.com/en-GB/projects/renew-atlanta-north-avenue-smart-corridor)
 
 #### Research Brief
 
