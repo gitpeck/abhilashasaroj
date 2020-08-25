@@ -1,9 +1,9 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
-### Smart Cities Atlanta - North Avenue (under construction)
+### Smart Cities Atlanta - North Avenue
 <img src="north_ave_smart.jpg" height = "200" width = "1603"/>
 
-Image by (), accessed from  on 24 August 2020.
+Image by (Atkins Global), accessed from (https://m.atkinsglobal.com/en-GB/projects/renew-atlanta-north-avenue-smart-corridor) on 24 August 2020.
 
 #### Research Brief
 
