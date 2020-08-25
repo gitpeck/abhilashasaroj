@@ -1,18 +1,10 @@
 ### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md)
 
-### VISSIM Tutorials - Active Project (page under construction)
-Add picture - provide picture courtesy 
+### VISSIM Tutorials - Active Project (under construction)
+Role: Self-initiated
 
 #### Project Brief
-- Targeted learners
-- Use
-- Which tutorials I am preparing
-- Brief of all tutorials in series
-- Link to all tutorials in series 
+I plan to develop small size tutorials to learn using PTV's VISSIM traffic simulation software. More specifically, the tutorials will focus on using VISSIM's COM feature to apply dynamic changes. 
 
-#### References 
 
-#### Team
-- 
-
-Last modified: August 12 2020
+Last modified: August 25 2020
