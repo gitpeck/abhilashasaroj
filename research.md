@@ -1,6 +1,4 @@
-### [Home](README.md) | [Research Portfolio](/research.md) | [Research](research_projects.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
-
-## Research Portfolio
+### [Home](README.md) | [Research](research_projects.md) | [Research Highlights](/research.md) | [Other Interests](other_interests.md) | [Blog](blog.md)  
 
 ### Peer-Reviewed Journal Articles
 - **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
