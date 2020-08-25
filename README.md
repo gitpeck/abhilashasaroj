@@ -8,9 +8,6 @@ I am Abhilasha Saroj. I recently graduated with a Ph.D. in Civil Engineering (sp
 #### Dissertation Brief
 My Ph.D. research entailed development of a connected corridor real-time data-driven traffic simulation model that is capable of providing traffic and environmental performance measures of the corridor at a (near) real-time rate. The developed model can be used by research practitioners and transportation organizations to simulate and measure environmental and traffic performance impacts of different connected corridor technologies. Discovery of data gaps in the high resolution real-time raw data streams received from the study corridor motivated second research effort - investigation of the connected corridor real-time data loss characteristics to provide a suitable data imputation methodology. Towards this, performance of univariate and multivariate imputation model that use Long Short Term Memory Recurrent Neural Network layers are investigated. 
 
-#### Next Up
-I plan to start working as a Postdoctoral Associate at Georgia Tech soon.
-
 #### Contact
 Connect on: [Linkedin](https://www.linkedin.com/in/abhilasha-saroj-gatech/)| Collaborate on: [Github](https://github.com/abhilashasaroj)
 
