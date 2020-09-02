@@ -1,6 +1,6 @@
 ### [Home](README.md) | [Research](research_projects.md) | [Research Highlights](/research.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
-### VISSIM Tutorials - Active Project (under construction)
+### VISSIM Tutorials - Active Project (In Progress)
 Role: Self-initiated
 
 #### Project Brief
