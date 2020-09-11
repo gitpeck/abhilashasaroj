@@ -10,6 +10,7 @@
 * [Link to week 4 notes](https://medium.com/@abhilashasaroj.genuine/fundamentals-of-reinforcement-learning-coursera-course-notes-week-4-cb6b6d6ce213) 
 
 
+#### Course 2: [Sample Based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 
 
 
