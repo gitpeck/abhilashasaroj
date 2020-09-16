@@ -1,11 +1,12 @@
 ### [Home](README.md) | [Research](research_projects.md) | [Research Highlights](/research.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
 
 ### Learn a new thing! 
-
+**********************************************************************************************************************
 #### Azure Machine Learning service 
 15 September 2020
 
 **Resource Used**
+
 Guided Projects by Coursera 
 * [Predictive Modelling with Azure Machine Learning Studio](https://www.coursera.org/projects/predictive-modelling-azure-machine-learning-studio)
 * [Machine Learning Pipelines with Azure ML Studio](https://www.coursera.org/projects/azure-machine-learning-studio-pipeline)
