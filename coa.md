@@ -28,9 +28,8 @@ This research was also my dissertation research. For details please refer the re
 #### Technical Report
 - Hunter, M. P., R. L. Guensler, A. Guin, **A. Saroj**, and S. Roy. “Smart Cities Atlanta - North Avenue.” City of Atlanta, Atlanta, Georgia, December 2019. [[link to project report (pdf)]](http://realtime.ce.gatech.edu/RenewAtlanta-GeorgiaTech-Final-Report.pdf)
 
-#### Journal Articles (in preparation)
-- **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
-- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. 2020. *(in preparation)*
+#### Dissertation 
+- **Saroj, A.** Development of a Real-Time Connected Corridor Data-Driven Digital Twin and Data Imputation Methods. July,2020. [[link to pdf]](https://smartech.gatech.edu/handle/1853/63642)
 
 ---
 ### Project Material shared on GitHub - [CoA](https://github.com/abhilashasaroj/CoA)
