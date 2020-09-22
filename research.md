@@ -11,7 +11,7 @@
 - **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Arterial Traffic Volume Data Imputation. 2020. *(under review)*
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter.Impact of Connected Corridor Volume Data Imputations on Digital Twin Performance Measures. 2020. *(in preparation)*
 - **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. A Connected Corridor Real-Time Data-Driven Traffic Simulation Model – Digital Twin. 2020. *(in preparation)*
-- **Saroj, A.**, A. Guin, & M. Hunter. Long Short-Tern Memory Traffic Volume Imputation Model to Drive Connected Corridor Simulation. 2020. *(in preparation)*
+- **Saroj, A.**, A. Guin, & M. Hunter. Long Short-Term Memory Traffic Volume Imputation Model to Drive Connected Corridor Simulation. 2020. *(in preparation)*
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Measuring Operational Effectiveness of the Do Not Block the Box Campaigns. *(in preparation)*
 
 ### Technical Reports
