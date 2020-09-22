@@ -29,13 +29,13 @@ This research was also my dissertation research. For details please refer the re
 - Hunter, M. P., R. L. Guensler, A. Guin, **A. Saroj**, and S. Roy. “Smart Cities Atlanta - North Avenue.” City of Atlanta, Atlanta, Georgia, December 2019. [[link to project report (pdf)]](http://realtime.ce.gatech.edu/RenewAtlanta-GeorgiaTech-Final-Report.pdf)
 
 #### Dissertation 
-- **Saroj, A.** Development of a Real-Time Connected Corridor Data-Driven Digital Twin and Data Imputation Methods. July,2020. [[link to pdf]](https://smartech.gatech.edu/handle/1853/63642)
+- **Saroj, A.** Development of a Real-Time Connected Corridor Data-Driven Digital Twin and Data Imputation Methods. July, 2020. [[link to pdf]](https://smartech.gatech.edu/handle/1853/63642)
 
 ---
 ### Project Material shared on GitHub - [CoA](https://github.com/abhilashasaroj/CoA)
 - Contains python 3.7 code to develop simulation model using Vissim 9.00-08 COM interface
 
-Last Updated: 24 August 2020
+Last Updated: 22 September 2020
 
 
 
