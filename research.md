@@ -1,16 +1,18 @@
 ### [Home](README.md) | [Research](research_projects.md) | [Research Highlights](/research.md) | [Other Interests](other_interests.md) | [Blog](blog.md)  
 
-### Peer-Reviewed Journal Articles
-- **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Traffic Time Series Data Imputations. 2020. *(in preparation)*
-- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. Sensitivity Analysis of Volume Data Imputations on a RealTime Data-Driven Traffic Simulation Model’s Performance Measures. 2020. *(in preparation)*
-- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Measuring Effectiveness and Operational Performance of Do Not Block the Box Campaigns. *(in preparation)*
-
 ### Peer-Reviewed Conference Proceedings
 - **Saroj, A.** A Sensitivity Analysis Study to Measure Impact of Real-Time Traffic Volume Data Imputations on Traffic Performance Measures. Winter Simulation Conference, National Harbor, Maryland, 2019. *(Ph.D. Colloquium - Extended Abstract, Podium Presentation, & Poster Presentation)* [[link to I-Sim WSC archive]](https://www.informs-sim.org/wsc19papers/290.pdf)
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Operational Evaluation of Don’t Block the Box Campaigns. Transportation Research Board, Washington, D.C., 2019. *(Poster Presentation)* [[link to TRID database]](https://trid.trb.org/view/1573335)
 - **Saroj, A.**, S. Roy, R. Fujimoto, A. Guin, & M. Hunter. Smart City Real-Time Data-Driven Simulation. Winter Simulation Conference, Gothenburg, Sweden, 2018. *(Podium Presentation)* [[link to IEEE page]](https://ieeexplore.ieee.org/document/8632198?denied=)
 - **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Video Tool for Manually Extracting Complex Traffic Data. Transportation Research Board, Washington, D.C., 2018. *(Podium Presentation by Dr. Guin)* [[link to TRID database]](https://trid.trb.org/view/1496767)
 - **Saroj, A.**, S. Harris, A. Guin, M. Rodgers, & M. Hunter. Analysis of Vehicle Blocking Behavior on Intersection Performance. Transportation Research Board, Washington, D.C., 2017. *(Poster Presentation)* [[link to TRID database]](https://trid.trb.org/view/1439541)
+
+### Manuscripts [in progress]
+- **Saroj, A.**, A. Guin, & M. Hunter. Deep LSTM Recurrent Neural Networks for Arterial Traffic Volume Data Imputation. 2020. *(under review)*
+- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter.Impact of Connected Corridor Volume Data Imputations on Digital Twin Performance Measures. 2020. *(in preparation)*
+- **Saroj, A.**, S. Roy, A. Guin, & M. Hunter. A Connected Corridor Real-Time Data-Driven Traffic Simulation Model – Digital Twin. 2020. *(in preparation)*
+- **Saroj, A.**, A.Guin, & M. Hunter. Long Short-Tern Memory Traffic Volume Imputation Model to Drive Connected Corridor Simulation. 2020. *(in preparation)*
+- **Saroj, A.**, N. Choudhary, H. Kim, A. Guin, M. Rodgers, & M. Hunter. Measuring Operational Effectiveness of the Do Not Block the Box Campaigns. *(in preparation)*
 
 ### Technical Reports
 - Hunter, M. P., R. L. Guensler, A. Guin, **A. Saroj**, and S. Roy. “Smart Cities Atlanta - North Avenue.” City of Atlanta, Atlanta, Georgia, December 2019.[[link to project report (pdf)]](http://realtime.ce.gatech.edu/RenewAtlanta-GeorgiaTech-Final-Report.pdf)
