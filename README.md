@@ -1,7 +1,7 @@
 ### [Home](README.md) | [Research](research_projects.md) | [Research Highlights](/research.md) | [Other Interests](other_interests.md) | [Blog](blog.md) 
  
 ### About
-[Download CV](/Abhilasha Saroj_CV_29June2020.pdf)
+[Download CV](/Abhilasha Saroj_CV_27Sep2020_v2.pdf)
 
 I am Abhilasha Saroj. I recently graduated with a Ph.D. in Civil Engineering (specialization - Transportation Systems Engineering) from Georgia Institute of Technology in August 2020. The title of my dissertation was - "Development of a Real-Time Connected Corridor Data-Driven Digital Twin and Data Imputation Methods". My Ph.D. was advised by [Dr. Michael Hunter](https://ce.gatech.edu/people/Faculty/811/overview).
 
