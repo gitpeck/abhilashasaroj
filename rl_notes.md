@@ -13,6 +13,7 @@
 #### Course 2: [Sample Based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 
 * [Link to week 2 notes](https://medium.com/@abhilashasaroj.genuine/sample-based-learning-methods-eabdebe23fe1)
+* [Link to week 3 notes](https://abhilashasaroj-genuine.medium.com/sample-based-learning-methods-temporal-difference-learning-433a19889cd4)
 
 
 
