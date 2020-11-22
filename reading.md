@@ -4,11 +4,11 @@
 
 #### 2020 Reading Activity
 
-##### [An Introduction to Buddhism by Dalai Lama XIV](https://www.goodreads.com/book/show/36803955-an-introduction-to-buddhism)
+##### [An Introduction to Buddhism by Dalai Lama XIV](https://www.goodreads.com/book/show/36803955-an-introduction-to-buddhism)  [x]
 
-##### [Perfecting Patience by Dalai Lama XIV](https://www.goodreads.com/book/show/39279810-perfecting-patience?ac=1&from_search=true&qid=dPOsLNbv8e&rank=2)
+##### [Perfecting Patience by Dalai Lama XIV](https://www.goodreads.com/book/show/39279810-perfecting-patience?ac=1&from_search=true&qid=dPOsLNbv8e&rank=2)  [x]
 
-##### [Why we Sleep? by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep) 
+##### [Why we Sleep? by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep)  [x]
 
 ##### [Essential Bukowski by Charles Bukowski](https://www.goodreads.com/book/show/29100335-essential-bukowski?ac=1&from_search=true&qid=YicEvYv793&rank=1) *poetry* (now) 
 
