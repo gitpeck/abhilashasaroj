@@ -6,7 +6,7 @@
 
 ##### [An Introduction to Buddhism by Dalai Lama XIV](https://www.goodreads.com/book/show/36803955-an-introduction-to-buddhism) &#x2611;
 
-##### [Perfecting Patience by Dalai Lama XIV](https://www.goodreads.com/book/show/39279810-perfecting-patience?ac=1&from_search=true&qid=dPOsLNbv8e&rank=2) - [x]
+##### [Perfecting Patience by Dalai Lama XIV](https://www.goodreads.com/book/show/39279810-perfecting-patience?ac=1&from_search=true&qid=dPOsLNbv8e&rank=2) &#9745;
 
 ##### [Why we Sleep? by Matthew Walker](https://www.goodreads.com/book/show/34466963-why-we-sleep) - [x]
 
