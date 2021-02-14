@@ -16,7 +16,7 @@
 
 ##### [Crime and Punishment by Fyodor Dostoyevsky](https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ac=1&from_search=true&qid=SYYlhHu7PV&rank=1) (now)
 
-##### [Perfecting Wisdom: How Things Appear and How They Truly Are by Dalai Lama](https://www.goodreads.com/book/show/44065569-perfecting-wisdom) (now)
+##### [Perfecting Wisdom: How Things Appear and How They Truly Are by Dalai Lama XIV](https://www.goodreads.com/book/show/44065569-perfecting-wisdom) (now)
 
 ##### [The Smallest Lights in the Universe: A Memoir](https://www.goodreads.com/book/show/43982439-the-smallest-lights-in-the-universe) (next)
 
