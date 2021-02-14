@@ -2,7 +2,7 @@
 
 ### Reading 
 
-#### 2020 Reading Activity
+#### Reading Activity (Starting 2020)
 
 ##### [An Introduction to Buddhism by Dalai Lama XIV](https://www.goodreads.com/book/show/36803955-an-introduction-to-buddhism) &#x2611;
 
@@ -12,10 +12,10 @@
 
 ##### [Essential Bukowski by Charles Bukowski](https://www.goodreads.com/book/show/29100335-essential-bukowski?ac=1&from_search=true&qid=YicEvYv793&rank=1) *poetry* (now) 
 
-##### [Girl Decoded by Rana el Kaliouby](https://www.goodreads.com/book/show/52701044-girl-decoded?ac=1&from_search=true&qid=njCJRFfepV&rank=1) (now)
+##### [Girl Decoded by Rana el Kaliouby](https://www.goodreads.com/book/show/52701044-girl-decoded?ac=1&from_search=true&qid=njCJRFfepV&rank=1)  &#9745;
 
-##### [Crime and Punishment by Fyodor Dostoyevsky](https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ac=1&from_search=true&qid=SYYlhHu7PV&rank=1) (next)
+##### [Crime and Punishment by Fyodor Dostoyevsky](https://www.goodreads.com/book/show/7144.Crime_and_Punishment?ac=1&from_search=true&qid=SYYlhHu7PV&rank=1) (now)
 
-##### [The Smallest Lights in the Universe: A Memoir](https://www.goodreads.com/book/show/43982439-the-smallest-lights-in-the-universe) (later)
+##### [The Smallest Lights in the Universe: A Memoir](https://www.goodreads.com/book/show/43982439-the-smallest-lights-in-the-universe) (next)
 
 
