@@ -2,7 +2,7 @@
 
 ### Reading 
 
-#### Reading Activity (Starting 2020)
+#### Reading Activity (Record from start of 2020)
 
 ##### [An Introduction to Buddhism by Dalai Lama XIV](https://www.goodreads.com/book/show/36803955-an-introduction-to-buddhism) &#x2611;
 
