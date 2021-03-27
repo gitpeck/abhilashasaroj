@@ -12,4 +12,4 @@ This tutorial contains a sampe Vissim network file that has one four-way signali
 Find the Vissim netwok file (sample_network1.inpx), instructions to run the model (Vissim_COM_Code_to_change_volume dynamically_readme.docx), and Vissim COM python script (script1.0.py) for this tutorial at this [github repository link](https://github.com/abhilashasaroj/VISSIM_COM_Tutorials/tree/main/Tutorial_1). The Vissim file and code provided is for Vissim 2021. 
 
 
-Last modified: August 25 2020
+Last modified: March 27 2020
